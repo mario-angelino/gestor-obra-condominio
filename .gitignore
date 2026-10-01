@@ -1,0 +1,12 @@
+# Claude Code local settings (may contain machine-local permissions/credentials)
+.claude/settings.local.json
+
+# Node / Next.js (project not scaffolded yet, kept ready for when it is)
+node_modules/
+.next/
+out/
+
+# Env files
+.env
+.env.local
+.env.*.local
